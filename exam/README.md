@@ -1,3 +1,8 @@
+<span style="font-size: 26px; font-weight: bold;">Екзаменаційна робота</span>  
+<span style="font-size: 26px; font-weight: bold;">З дисципліни «Тестування програмних систем та комплексів»</span>  
+<span style="font-size: 26px; font-weight: bold;">Студента групи КН - 340</span>  
+<span style="font-size: 26px; font-weight: bold;">Будник Богдан</span>
+
 # Білет №2
 
 ## 1. Основні рівні тестування (Unit, Integration, System, Acceptance)
@@ -108,3 +113,4 @@ class TestIsPalindrome(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 ```
+
